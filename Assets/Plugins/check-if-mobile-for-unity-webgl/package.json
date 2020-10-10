@@ -16,7 +16,7 @@
     "samples": [
         {
             "displayName": "Samples",
-            "description": "Show whether the execution environment is PC or mobile.",
+            "description": "Display whether the execution environment is PC or mobile.",
             "path": "Samples~"
         }
     ]

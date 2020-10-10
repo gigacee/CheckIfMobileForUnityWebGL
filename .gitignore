@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -51,10 +52,11 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
-# Builds
-*.apk
-*.unitypackage
-
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
