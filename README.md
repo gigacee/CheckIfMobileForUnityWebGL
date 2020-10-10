@@ -4,7 +4,7 @@ The plugin to check if your Unity WebGL game is running on a PC or mobile device
 
 | on PC                                                                                                           | on Mobile                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| <img src="https://user-images.githubusercontent.com/5264444/95643110-df006400-0ae7-11eb-97a1-5c330a532dff.png"> | <img src="https://user-images.githubusercontent.com/5264444/95643132-02c3aa00-0ae8-11eb-9207-3abcd30a07a9.png"> |
+| <img src="https://user-images.githubusercontent.com/5264444/95644234-3aceeb00-0af0-11eb-8b93-754c0b3f1062.png"> | <img src="https://user-images.githubusercontent.com/5264444/95644297-a9ac4400-0af0-11eb-9c9d-7440e783666d.png"> |
 
 ## Usage
 
