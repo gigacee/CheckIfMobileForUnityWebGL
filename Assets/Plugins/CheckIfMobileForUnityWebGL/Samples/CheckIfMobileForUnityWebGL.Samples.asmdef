@@ -1,5 +1,6 @@
 {
-    "name": "CheckIfMobileForUnityWebgl.Samples",
+    "name": "CheckIfMobileForUnityWebGL.Samples",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

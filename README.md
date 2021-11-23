@@ -12,7 +12,7 @@ The plugin to check if your Unity WebGL game is running on a PC or mobile device
 
 ## Usage
 
-This script uses [.jslib plugin](https://docs.unity3d.com/Manual/webgl-interactingwithbrowserscripting.html). You can check if your Unity WebGL game is running on a PC or mobile device by calling `IsMobile()` in `CheckIfMobileForUnityWebgl.jslib` as follows:
+This script uses [.jslib plugin](https://docs.unity3d.com/Manual/webgl-interactingwithbrowserscripting.html). You can check if your Unity WebGL game is running on a PC or mobile device by calling `IsMobile()` in `CheckIfMobileForUnityWebGL.jslib` as follows:
 
 ```cs
     bool isMobile;
@@ -34,10 +34,10 @@ This script uses [.jslib plugin](https://docs.unity3d.com/Manual/webgl-interacti
 
 ### Package Manager
 
-`https://github.com/Gigacee/check-if-mobile-for-unity-webgl.git?path=Assets/Plugins/check-if-mobile-for-unity-webgl`
+`https://github.com/gigacee/CheckIfMobileForUnityWebGL.git?path=Assets/Plugins/CheckIfMobileForUnityWebGL`
 
 ### Manual
 
-Copy `Assets/Plugins/check-if-mobile-for-unity-webgl/CheckIfMobileForUnityWebgl.jslib` to your project.
+Copy `Assets/Plugins/CheckIfMobileForUnityWebGL/CheckIfMobileForUnityWebgl.jslib` to your project.
 
 :warning: Be sure to put it in `Assets/Plugins/` .
