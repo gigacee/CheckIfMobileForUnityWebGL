@@ -38,6 +38,6 @@ This script uses [.jslib plugin](https://docs.unity3d.com/Manual/webgl-interacti
 
 ### Manual
 
-Copy `Assets/Plugins/CheckIfMobileForUnityWebGL/CheckIfMobileForUnityWebgl.jslib` to your project.
+Copy `Assets/Plugins/CheckIfMobileForUnityWebGL/CheckIfMobileForUnityWebGL.jslib` to your project.
 
 :warning: Be sure to put it in `Assets/Plugins/` .

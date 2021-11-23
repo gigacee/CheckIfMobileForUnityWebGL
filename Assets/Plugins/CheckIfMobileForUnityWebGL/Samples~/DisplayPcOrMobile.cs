@@ -4,10 +4,10 @@ using UnityEngine.UI;
 using System.Runtime.InteropServices;
 #endif
 
-namespace CheckIfMobileForUnityWebgl.Samples
+namespace CheckIfMobileForUnityWebGL.Samples
 {
     [RequireComponent(typeof(Text))]
-    public class DisplayPcOrMobile : MonoBehaviour
+    public class DisplayPCOrMobile : MonoBehaviour
     {
         private void Start()
         {
