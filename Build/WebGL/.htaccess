@@ -1,0 +1,19 @@
+AddType application/wasm wasm
+AddType application/octet-streamt data
+AddType application/javascript js
+
+<FilesMatch "(\.js.gz)$">
+    Header set Content-Encoding gzip
+    Header set Content-Type application/javascript
+    Header append Vary Accept-Encoding
+</FilesMatch>
+<FilesMatch "(\.data.gz)$">
+    Header set Content-Encoding gzip
+    Header set Content-Type application/octet-streamt
+    Header append Vary Accept-Encoding
+</FilesMatch>
+<FilesMatch "(\.wasm.gz)$">
+    Header set Content-Encoding gzip
+    Header set Content-Type application/wasm
+    Header append Vary Accept-Encoding
+</FilesMatch>
