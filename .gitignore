@@ -11,7 +11,6 @@
 # Build
 /[Bb]uild/*/*
 !/[Bb]uild/*/.gitkeep
-!/[Bb]uild/WebGL/.htaccess
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -64,6 +63,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
+
+# For WebGL Build
+!/[Bb]uild/WebGL/.htaccess
 
 # Crashlytics generated file
 crashlytics-build.properties
