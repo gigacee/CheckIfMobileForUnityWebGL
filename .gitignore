@@ -14,6 +14,9 @@
 # Addressable Asset System
 /ServerData/*
 
+# Recorder
+/Recordings/*
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /MemoryCaptures/
@@ -76,16 +79,16 @@ crashlytics-build.properties
 /Assets/StreamingAssets/aa.meta
 /Assets/StreamingAssets/aa/*
 
-# Local only files
-/Assets/zz-LocalOnly.meta
-/Assets/zz-LocalOnly/*
-
 ################################################################################
 # General
 ################################################################################
 
+# macOS system file
+.DS_Store
+
 # File to keep an empty directory
 !/**/.gitkeep
 
-# macOS
-.DS_Store
+# Local only files
+/**/zz-LocalOnly.meta
+/**/zz-LocalOnly/*
